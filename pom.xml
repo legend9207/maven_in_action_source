@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>groupId</groupId>
+    <artifactId>maven-in-action-source</artifactId>
+    <version>1.0-SNAPSHOT</version>
+    <packaging>pom</packaging>
+    <name>Maven Action Aggregator</name>
+
+    <modules>
+        <module>ch-3/hello-world</module>
+        <module>ch-5/account-email</module>
+        <module>ch-7</module>
+        <module>ch-8/account-parent</module>
+        <module>ch-8/account-aggregator</module>
+        <module>ch-10/account-parent</module>
+        <module>ch-12/account-parent</module>
+        <module>ch-17/maven-loc-plugin</module>
+        <module>ch-18/mvnbook-archetype-sample</module>
+    </modules>
+    
+</project>
