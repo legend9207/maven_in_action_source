@@ -4,8 +4,10 @@
 *.iml
 *.ipr
 *.iws
+*.log
 .idea
 out
 test-output
+target
 atlassian-ide-plugin.xml
 .gradletasknamecache
